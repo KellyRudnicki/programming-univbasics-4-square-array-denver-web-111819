@@ -1,7 +1,7 @@
 def square_array(array)
   numbers = []
   
-  Math.sqrt(numbers)
+  Math.sqrt(numbers[counter])
   
   
   counter = 0 
