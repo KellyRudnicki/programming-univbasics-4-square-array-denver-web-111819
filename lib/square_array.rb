@@ -1,4 +1,6 @@
 def square_array(array)
+  
+new_array = []
   numbers = []
   
   Math.sqrt(array)
